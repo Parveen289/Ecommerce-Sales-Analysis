@@ -25,6 +25,7 @@ I created an interactive dashboard using Power BI to present the analysis in a c
  📊 Dashboard
 
 The dashboard includes:
+20260402_112643.jpg
 
 - Total Sales
 - Total Profit
