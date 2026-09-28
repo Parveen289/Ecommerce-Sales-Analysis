@@ -1,2 +1,49 @@
-# Ecommerce-Sales-Analysis
-E-commerce sales analysis dashboard created using Power BI.
+# 🛒 E-Commerce Sales Analysis
+
+## 📌 Project Overview
+
+This project analyzes e-commerce sales data to understand sales and profit performance across products, regions, and cities.
+
+I created an interactive dashboard using Power BI to present the analysis in a clear and visual way.
+
+## 🛠️ Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+
+## 🎯 Objectives
+
+- Analyze total sales and profit
+- Identify top-performing products
+- Compare sales across regions and cities
+- Analyze product profitability
+- Create an interactive dashboard
+
+## 📊 Dashboard
+
+The dashboard includes:
+
+- Total Sales
+- Total Profit
+- Regional Sales
+- City-wise Sales
+- Product Analysis
+- Interactive Filters
+
+## 💡 Key Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Power BI
+- Power Query
+- DAX
+
+## 👩‍💻 Author
+
+**Purveen Kaur**
+
+Aspiring Data Analyst
