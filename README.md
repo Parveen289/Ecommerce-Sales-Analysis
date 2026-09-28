@@ -34,8 +34,15 @@ The dashboard includes:
 - Product Analysis
 - Interactive Filters
 
-💡 Key Skills Demonstrated
+ 🔎 Key Insights -
 
+- The dashboard provides an overview of total sales and total profit.
+- Product performance can be compared using the product analysis.
+- City-wise sales can be explored using the interactive filters.
+- Regional sales performance can be compared through the visualizations.
+- The dashboard helps identify products and locations contributing to sales performance.
+  
+💡 Key Skills Demonstrated
 - Data Cleaning
 - Data Analysis
 - Data Visualization
